@@ -1,0 +1,15 @@
+.launches-list {
+	.launches-list-item {
+		padding: 0.3rem;
+		// a {
+		// 	color: black;
+		// 	&:hover {
+		// 		color: black;
+		// 	}
+		// }
+		&:hover {
+			text-decoration: underline;
+			background-color: rgb(200, 200, 200);
+		}
+	}
+}

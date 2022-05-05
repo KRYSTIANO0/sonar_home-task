@@ -1,0 +1,9 @@
+.launches-list .launches-list-item {
+  padding: 0.3rem;
+}
+
+.launches-list .launches-list-item:hover {
+  text-decoration: underline;
+  background-color: #c8c8c8;
+}
+/*# sourceMappingURL=DataList.module.css.map */

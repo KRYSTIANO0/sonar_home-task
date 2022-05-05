@@ -1,0 +1,14 @@
+.nav-list-item {
+  display: inline-block;
+}
+
+.nav-list-item .nav-link {
+  color: white;
+  font-size: 2rem;
+  margin: 0 1rem;
+}
+
+.nav-list-item .nav-link:hover {
+  color: #646464;
+}
+/*# sourceMappingURL=NavbarItem.module.css.map */

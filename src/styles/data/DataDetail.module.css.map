@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,cAAc,CAAC;EACd,UAAU,EAAE,MAAM;EAClB,SAAS,EAAE,IAAI;EACf,UAAU,EAAE,IAAI;CAOhB;;AAVD,AAIC,cAJa,CAIb,CAAC,CAAC;EACD,UAAU,EAAE,IAAI;CAChB;;AANF,AAOC,cAPa,CAOb,GAAG,CAAC;EACH,KAAK,EAAE,GAAG;CACV",
+    "sources": [
+        "DataDetail.module.scss"
+    ],
+    "names": [],
+    "file": "DataDetail.module.css"
+}

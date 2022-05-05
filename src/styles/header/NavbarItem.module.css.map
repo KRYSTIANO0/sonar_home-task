@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,cAAc,CAAC;EACd,OAAO,EAAE,YAAY;CAUrB;;AAXD,AAEC,cAFa,CAEb,SAAS,CAAC;EACT,KAAK,EAAE,KAAK;EACZ,SAAS,EAAE,IAAI;EACf,MAAM,EAAE,MAAM;CAKd;;AAVF,AAOE,cAPY,CAEb,SAAS,AAKP,MAAM,CAAC;EACP,KAAK,EAAE,OAAkB;CACzB",
+    "sources": [
+        "NavbarItem.module.scss"
+    ],
+    "names": [],
+    "file": "NavbarItem.module.css"
+}

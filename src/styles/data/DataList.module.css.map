@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACC,cADa,CACb,mBAAmB,CAAC;EACnB,OAAO,EAAE,MAAM;CAWf;;AAbF,AASE,cATY,CACb,mBAAmB,AAQjB,MAAM,CAAC;EACP,eAAe,EAAE,SAAS;EAC1B,gBAAgB,EAAE,OAAkB;CACpC",
+    "sources": [
+        "DataList.module.scss"
+    ],
+    "names": [],
+    "file": "DataList.module.css"
+}
